@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 56" fill="none" role="img" aria-label="Whitespace">
+  <title>Whitespace</title>
+  <g stroke="currentColor" stroke-width="6.6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M9 17 L18 41"/>
+    <path d="M18 41 L27 24" opacity="0.58"/>
+    <path d="M27 24 L36 41"/>
+    <path d="M36 41 L43 17" opacity="0.58"/>
+  </g>
+  <rect x="52" y="14" width="15" height="30" rx="1.5" fill="currentColor"/>
+</svg>
